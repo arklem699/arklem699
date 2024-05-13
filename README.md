@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arklem699&theme=radical&locale=ru&mode=weekly&card_width=595)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arklem699&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arklem699&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![codewars](https://www.codewars.com/users/arklem/badges/large)](https://www.codewars.com/users/arklem)  
 
