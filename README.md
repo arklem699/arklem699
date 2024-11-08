@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/arklem/" target="_blank">Artem</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia 🇷🇺</h3>
+<h1 align="center">Hi there, I'm <a href="https://t.me/arklem/" target="_blank">Artem👋</a> 
+<h3 align="center">Backend developer from Russia 🇷🇺</h3>
 
 ### :fire: My Stats :
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arklem699&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
